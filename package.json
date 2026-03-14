@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
+    "dev": "portless notion-smart-note-taker-via-Tasklet- next dev",
     "lint": "eslint .",
     "start": "next start"
   },
